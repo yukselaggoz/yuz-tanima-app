@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ed0a9a2d3abc2e85ca5fd4ea300c671f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/62a133ffa38623742692582f15832131/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7f65ffa5049f29bf79445aaad23b5a24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/21464cfba10ea98004f4cc5d134ff432/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dc924b73b63356b73044da69b6a6e2e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5bdea796d4989099dc78922f7cb43889/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/661bea055ace1def76a2387758c8ba70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/56ace3f57a10a0e1caac78b77beeaf78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/813fadd2eff31dd6fe318aaa53e2b716/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/79d2b20876923e4d0b638babaa1fda89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cc5eb62689ac3e489613adff72c3509d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/281e41fc9959f909efa294d12f38044d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/647958ffdf4c9f2c8165045f37452003/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0178a51b83f53626c7ccbb6b704cba48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/19ab529e48d44056c11f8a33c24d44f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9a725e98424404d7e9a48f2fc6cdbd3a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4f46964bed38148c46780e13e7d98dc6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/74c16882e35ba5b97476098820a4424f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c931f6c5edf59b4bc9ca4e6ff1371fbb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/42d777f7b08adbba2b251c2a19b6b359/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/651c956515eca5fd21c24a2281591911/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4670cf0bbbc49c1902cbf8d3f3d58b31/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/61c224560cc561a7db4ae59a447bbfb2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/141ede4a0c83f3b0314adff06bf0cbc7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c309df5931a0432d4cd75bfc991734b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/93162b1452442e12a2fecfd9f3dd22fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/62f516deab3d2241f10b2bd83c455d9f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.MEDIA_CONTENT_CONTROL
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:9:22-65
+uses-feature#android.hardware.camera
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:12:19-67
+uses-feature#android.hardware.camera.front
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:13:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:14:19-73
+application
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:16:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/62a133ffa38623742692582f15832131/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/62a133ffa38623742692582f15832131/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9a725e98424404d7e9a48f2fc6cdbd3a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9a725e98424404d7e9a48f2fc6cdbd3a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4f46964bed38148c46780e13e7d98dc6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4f46964bed38148c46780e13e7d98dc6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9a725e98424404d7e9a48f2fc6cdbd3a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:18:9-44
+	android:allowBackup
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:22:9-40
+activity#com.yukselaggoz.yuztanima.MainActivity
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:theme
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:23:48-107
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:23:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:27:27-74
+activity#com.yukselaggoz.yuztanima.RecognizeActivity
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:30:19-52
+activity#com.yukselaggoz.yuztanima.ResponseActivity
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:31:9-53
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:31:19-51
+activity#com.yukselaggoz.yuztanima.SelectActivity
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:32:9-51
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:32:19-49
+activity#com.yukselaggoz.yuztanima.RegisterActivity
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:33:9-53
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:33:19-51
+activity#com.yukselaggoz.yuztanima.LoginActivity
+ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:34:9-50
+	android:name
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml:34:19-48
+uses-sdk
+INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ed0a9a2d3abc2e85ca5fd4ea300c671f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ed0a9a2d3abc2e85ca5fd4ea300c671f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/62a133ffa38623742692582f15832131/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/62a133ffa38623742692582f15832131/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7f65ffa5049f29bf79445aaad23b5a24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7f65ffa5049f29bf79445aaad23b5a24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/21464cfba10ea98004f4cc5d134ff432/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/21464cfba10ea98004f4cc5d134ff432/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dc924b73b63356b73044da69b6a6e2e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dc924b73b63356b73044da69b6a6e2e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5bdea796d4989099dc78922f7cb43889/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5bdea796d4989099dc78922f7cb43889/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/661bea055ace1def76a2387758c8ba70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/661bea055ace1def76a2387758c8ba70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/56ace3f57a10a0e1caac78b77beeaf78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/56ace3f57a10a0e1caac78b77beeaf78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/813fadd2eff31dd6fe318aaa53e2b716/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/813fadd2eff31dd6fe318aaa53e2b716/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/79d2b20876923e4d0b638babaa1fda89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/79d2b20876923e4d0b638babaa1fda89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cc5eb62689ac3e489613adff72c3509d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cc5eb62689ac3e489613adff72c3509d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/281e41fc9959f909efa294d12f38044d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/281e41fc9959f909efa294d12f38044d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/647958ffdf4c9f2c8165045f37452003/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/647958ffdf4c9f2c8165045f37452003/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0178a51b83f53626c7ccbb6b704cba48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0178a51b83f53626c7ccbb6b704cba48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/19ab529e48d44056c11f8a33c24d44f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/19ab529e48d44056c11f8a33c24d44f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9a725e98424404d7e9a48f2fc6cdbd3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9a725e98424404d7e9a48f2fc6cdbd3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4f46964bed38148c46780e13e7d98dc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4f46964bed38148c46780e13e7d98dc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/74c16882e35ba5b97476098820a4424f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/74c16882e35ba5b97476098820a4424f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c931f6c5edf59b4bc9ca4e6ff1371fbb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c931f6c5edf59b4bc9ca4e6ff1371fbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/42d777f7b08adbba2b251c2a19b6b359/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/42d777f7b08adbba2b251c2a19b6b359/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/651c956515eca5fd21c24a2281591911/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/651c956515eca5fd21c24a2281591911/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4670cf0bbbc49c1902cbf8d3f3d58b31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4670cf0bbbc49c1902cbf8d3f3d58b31/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/61c224560cc561a7db4ae59a447bbfb2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/61c224560cc561a7db4ae59a447bbfb2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/141ede4a0c83f3b0314adff06bf0cbc7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/141ede4a0c83f3b0314adff06bf0cbc7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c309df5931a0432d4cd75bfc991734b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c309df5931a0432d4cd75bfc991734b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/93162b1452442e12a2fecfd9f3dd22fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/93162b1452442e12a2fecfd9f3dd22fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/62f516deab3d2241f10b2bd83c455d9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/yukselaggoz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/62f516deab3d2241f10b2bd83c455d9f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yukselaggoz/Desktop/Projects/YuzTanima/app/src/main/AndroidManifest.xml
